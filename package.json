@@ -1,0 +1,21 @@
+{
+  "description": "An auto-generated demo by dumi",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "17.0.2",
+    "antd": "4.21.1",
+    "jst-react-table": "1.2.10",
+    "jst-components": "1.0.20",
+    "react-dom": ">=16.9.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
